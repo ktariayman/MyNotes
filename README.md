@@ -3,7 +3,7 @@
 
 # Notes-App-
 
-Notes App for beginner using React.js 
+Notes App (beginner friendly ) using React.js 
 
 Challenge 1 : Simple Notes App for educational purpose using React.js ( 30Days_React.js_Challenge)
 
